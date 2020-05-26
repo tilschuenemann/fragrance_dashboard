@@ -1,16 +1,7 @@
-# fragrance_dataset
+# fragrance_dashboard
+This is a data science / dashboard project which is built upon R and the packages shiny and shinydashboard.
 
-Two datasets I recorded in the past months. 
-* samples.csv
-* orders.csv
-
-|metric|explanation|
-|---|---|
-|s_cost|sample cost|
-|s_ml|sample ml|
-|s_amount|sample amount|
-|s_rating|sample rating|
-|fb_cost|full bottle cost|
-|fb_ml|full bottle ml|
-
-The reasons for the NAs in the sample rating column are because I either have  a faint memory of them or they are too new and I haven't decided yet.
+## planned features
+* delivery tab
+* simple formatting issues
+* add additional data including most prominent notes, seasonality and accords
