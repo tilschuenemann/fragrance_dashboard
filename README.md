@@ -5,3 +5,4 @@ This is a data science / dashboard project which is built upon R and the package
 * delivery tab
 * simple formatting issues
 * add additional data including most prominent notes, seasonality and accords
+* change from xlsx to csv
